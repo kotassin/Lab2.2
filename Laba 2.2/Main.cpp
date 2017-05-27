@@ -4,7 +4,7 @@ int main()
 {
 	int choice;
 	const int size = 5;
-	origin();   // функция выбора 
+	origin();   // функция выбоgbcbра 
 	car obj;
  
         cout<<"zhiooa";

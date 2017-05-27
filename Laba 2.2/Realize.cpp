@@ -4,6 +4,7 @@
 car::car(string model, int id, int year, string mk, double wt, bool at){
 	name = model; number = id; age = year; 
 	body = mk; weight = wt; automatic = at;
+//cause it is zhoppa
 }
 
 // Конструктор
